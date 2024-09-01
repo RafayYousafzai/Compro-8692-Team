@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Compro 8692 team 2023",
+    "slug": "rn-voting",
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f5f5f7"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.rafaykhan177.rnvoting"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#f5f5f7"
+      },
+      "package": "com.rafaykhan177.rnvoting"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "homepage": "http://localhost:3000/"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f4c5cd55-e9d6-43d5-ab58-b2ea60be5736"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/f4c5cd55-e9d6-43d5-ab58-b2ea60be5736"
+    }
+  }
+}
